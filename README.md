@@ -2,7 +2,7 @@
  
 ### Overview
 From 1-20
-.The winner who can guess the number 👑
+,The winner who can guess the number 👑
 
 ### Screenshot
 
@@ -11,7 +11,7 @@ From 1-20
 
 ### Links
  
-- Live Site URL: [Guess the Number]() (play 🎮)
+- Live Site URL: [Guess the Number](https://mariam11ibrahim.github.io/GuessTheNumber/) (play 🎮)
 
 
 
