@@ -22,7 +22,7 @@ From 1-20
 - JavaScript 
 
 ## Author
-- Linked in - [Mariam Ibrahim ](https://www.linkedin.com/in/mariam11ibrahim/)
+- Linkedin - [Mariam Ibrahim ](https://www.linkedin.com/in/mariam11ibrahim/)
 
 
 
